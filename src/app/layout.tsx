@@ -17,7 +17,7 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
 	title: "ClapNest",
-	description: "Created by Mohit Singla",
+	description: "A Sample Chat Application",
 };
 
 export default function RootLayout({
