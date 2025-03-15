@@ -16,7 +16,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-	title: "ClapNest",
+	title: "ClapNest - A Chat App",
 	description: "A Sample Chat Application",
 };
 
